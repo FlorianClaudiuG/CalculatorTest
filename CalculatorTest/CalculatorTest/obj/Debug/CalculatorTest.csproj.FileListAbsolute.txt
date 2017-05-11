@@ -1,0 +1,24 @@
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\bin\Debug\CalculatorFinal.dll
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\bin\Debug\CalculatorFinal.pdb
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\Tommy\OneDrive\Teaching\Programming I\2015-2016\Assessment\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\bin\Debug\CalculatorFinal.dll
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\bin\Debug\CalculatorFinal.pdb
+C:\Users\Claudiu\Desktop\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\bin\Debug\CalculatorFinal.dll
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\bin\Debug\CalculatorFinal.pdb
+C:\Users\Claudiu\Desktop\Work\Year1\Programming I\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
